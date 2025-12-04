@@ -2,64 +2,68 @@
   type: map
   contents:
     - name: Full Name
-      value: Matilde Sosa
+      value: "Matilde Sosa"
     - name: Email
-      value: matildelucia@gmail.com
+      value: "matildelucia@gmail.com"
     - name: Phone
-      value: 0752760609
+      value: "0752760609"
     - name: Languages
-      value: Français (Courant), Anglais (Courant), Espagnol (Langue maternelle)
+      value: "Français (Courant), Anglais (Courant), Espagnol (Langue maternelle)"
 
 - title: Education
   type: time_table
   contents:
-    - title: M2 Physique Fondamentale et Applications - Photonique
-      institution: IMT Atlantique, Brest, France
-      year: Sept 2021 - Oct 2022
-    - title: Formation ingénieur - Double Diplôme
-      institution: IMT Atlantique, Brest, France
-      year: Sept 2020 - Oct 2022
-    - title: Ingénierie Électrique
-      institution: UdelaR, Montevideo, Uruguay
-      year: Mars 2017 - Juillet 2020
+    - title: "M2 Physique Fondamentale et Applications - Photonique"
+      institution: "IMT Atlantique, Brest, France"
+      year: "Septembre 2021 - Octobre 2022"
+    - title: "Formation ingénieur - Double Diplôme"
+      institution: "IMT Atlantique, Brest, France"
+      year: "Septembre 2020 - Octobre 2022"
+    - title: "Ingénierie Électrique"
+      institution: "UdelaR, Montevideo, Uruguay"
+      year: "Mars 2017 - Juillet 2020"
 
 - title: Experience
   type: time_table
   contents:
-    - title: Doctorante en Physique - Photonique
-      institution: LSPM, CEA Saclay & ICMMO, Université Paris Saclay
-      year: 2022-2025
+    - title: "Doctorante en Physique - Photonique"
+      institution: "LSPM, CEA Saclay & ICMMO, Université Paris Saclay"
+      year: "2022–2025"
       description:
-        - Étude des réseaux de Bragg à fibre optique (FBG) pour capteurs résistant aux hautes températures.
-        - Caractérisation microstructurale des microcavités inscrites par laser femtoseconde (type III Fs-FBG) (TEM, nano-IR, QPM).
-        - Analyse de la stabilité thermique et modélisation de l'évolution des microcavités à haute température.
-        - Développement d'outils de prédiction de la durée de vie des capteurs (Master Curve Formalism).
-        - title: Publications
-          items:
-            - M. Sosa et al., Nanomaterials 2024, 14, 1228.
-            - M. Sosa et al., Micromachines 2025, 16, 331.
-    - title: Stage de Master 2 - Photonique
-      institution: LSPM, CEA Saclay, France
-      year: Avril - Octobre 2022
+        - "Étude des réseaux de Bragg à fibre optique (FBG) pour capteurs résistants aux hautes températures."
+        - "Caractérisation microstructurale des microcavités inscrites par laser femtoseconde (type III Fs-FBG) (TEM, nano-IR, QPM)."
+        - "Analyse de la stabilité thermique et modélisation de l'évolution des microcavités à haute température."
+        - "Développement d'outils de prédiction de la durée de vie des capteurs (Master Curve Formalism)."
+
+    - title: "Stage de Master 2 - Photonique"
+      institution: "LSPM, CEA Saclay, France"
+      year: "Avril - Octobre 2022"
       description:
-        - Développement d'un banc de caractérisation pour des réseaux de Bragg sur fibre optique (FBGs).
-        - Montage opto-mécanique et pilotage des moteurs.
-        - Analyse des données et comparaison au modèle théorique.
-        - Outils Used (LabVIEW, Python).
+        - "Développement d'un banc de caractérisation pour des réseaux de Bragg sur fibre optique (FBGs)."
+        - "Montage opto-mécanique et pilotage des moteurs."
+        - "Analyse des données et comparaison au modèle théorique."
+        - "Outils utilisés : LabVIEW, Python."
+
+- title: Publications
+  type: list
+  contents:
+    - "M. Sosa et al., Nanomaterials 2024, 14, 1228."
+    - "M. Sosa et al., Micromachines 2025, 16, 331."
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Compétences Techniques
+    - title: "Compétences Techniques"
       items:
-        - Manipulation fibre optique
-        - Ecriture laser dans matériaux
-        - Microscopie et caractérisation
-    - title: Informatique
+        - "Manipulation fibre optique"
+        - "Écriture laser dans matériaux"
+        - "Microscopie et caractérisation"
+    - title: "Informatique"
       items:
-        - Programmation Python
+        - "Programmation Python"
 
 - title: Other Interests
-  type: list
+  type: map
   contents:
-    - <u>Hobbies:</u> Photographie, Natation, Voyages.
+    - name: "Hobbies"
+      value: "Photographie, Natation, Voyages"
