@@ -1,7 +1,9 @@
 ---
-layout: page
+layout: about
 title: About
 permalink: /about/
+nav: true
+description: About me
 ---
 
-Aquí puedes escribir tu presentación.
+Escribe aquí tu presentación.
