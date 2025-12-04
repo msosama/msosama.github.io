@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Matilde
+title: About
 permalink: /
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
