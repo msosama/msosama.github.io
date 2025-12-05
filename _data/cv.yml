@@ -15,13 +15,13 @@
   contents:
     - title: "M2 Physique Fondamentale et Applications - Photonique"
       institution: "IMT Atlantique, Brest, France"
-      year: "Septembre 2021 - Octobre 2022"
+      year: "2021 - 2022"
     - title: "Formation ingenieur - Double Diplome"
       institution: "IMT Atlantique, Brest, France"
-      year: "Septembre 2020 - Octobre 2022"
+      year: "2020 - 2022"
     - title: "Ingenierie Electrique"
       institution: "UdelaR, Montevideo, Uruguay"
-      year: "Mars 2017 - Juillet 2020"
+      year: "2017 - 2020"
 
 - title: Experience
   type: time_table
@@ -37,7 +37,7 @@
 
     - title: "Stage de Master 2 - Photonique"
       institution: "LSPM, CEA Saclay, France"
-      year: "Avril - Octobre 2022"
+      year: "2022"
       description:
         - "Developpement d'un banc de caracterisation pour des reseaux de Bragg sur fibre optique (FBGs)."
         - "Montage opto-mecanique et pilotage des moteurs."
