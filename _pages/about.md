@@ -25,7 +25,7 @@ social: true # includes social icons at the bottom of the page
 #limit: 3 # leave blank to include all the blog posts
 ---
 
-I hold a PhD in physics with a specialization in photonics, and I work on fiber Bragg gratings and their behavior in extreme environments. Driven by experimental work, advanced microscopy, and modeling, I am interested in developing innovative photonic sensors.
+Docteure en physique spécialisée en photonique, je travaille sur les réseaux de Bragg à fibre optique et leur comportement en environnements extrêmes. Passionnée par l'expérimentation, la microscopie avancée et la modélisation, je m'intéresse au développement de capteurs photoniques innovants.
 
 <h2>Research Interests</h2>
 
