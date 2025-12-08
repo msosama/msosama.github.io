@@ -27,7 +27,7 @@ social: true # includes social icons at the bottom of the page
 
 Docteure en physique spécialisée en photonique, je travaille sur les réseaux de Bragg à fibre optique et leur comportement en environnements extrêmes. Passionnée par l'expérimentation, la microscopie avancée et la modélisation, je m'intéresse au développement de capteurs photoniques innovants.
 
-<h2>Research Interests</h2>
+<h2>Centres d'intérêt</h2>
 
 Je suis docteure en physique de l'Université Paris-Saclay, où j'ai mené une thèse au LSPM en collaboration avec le CEA Saclay et l'ICMMO. Mes travaux ont porté sur l'étude et l'optimisation des réseaux de Bragg à fibre optique capables de fonctionner à très haute température, avec un fort accent sur la caractérisation microstructurale des microcavités inscrites par laser femtoseconde et sur la compréhension de leur stabilité thermique.
 
@@ -39,6 +39,6 @@ Je suis actuellement à la recherche de nouvelles opportunités dans le domaine 
 
 <h2>Education</h2>
 
-I studied electrical engineering at the University of the Republic (UdelaR) in Uruguay. In 2020, I received a scholarship to continue my studies in France as part of a double-degree program at IMT Atlantique, where I completed my engineering training. In parallel, I pursued a Master's degree in Fundamental Physics and Applications, with a specialization in photonics, at IMT Atlantique.
+J'ai étudié l'ingénierie électrique à l'Université de la République (UdelaR) en Uruguay. En 2020, j'ai obtenu une bourse pour poursuivre mes études en France dans le cadre d'un programme de double diplôme à IMT Atlantique, où j'ai complété ma formation d'ingénieure. Parallèlement, j'ai suivi un Master en Physique Fondamentale et Applications, avec une spécialisation en photonique, à IMT Atlantique.
 
-In 2025, I obtained a PhD in physics from Universite Paris-Saclay, carried out at LSPM in collaboration with CEA Saclay and ICMMO. My work focused on the study, characterization, and modeling of fiber Bragg gratings for extreme environments.
+En 2025, j'ai obtenu un doctorat en physique à l'Université Paris-Saclay, réalisé au LSPM en collaboration avec le CEA Saclay et l'ICMMO. Mes travaux ont porté sur l'étude, la caractérisation et la modélisation de réseaux de Bragg à fibre optique pour environnements extrêmes.
