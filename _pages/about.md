@@ -7,7 +7,7 @@ permalink: /
 profile:
   align: right
   image: profile_mat.JPG
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
     <p>matildelucia@gmail.com</p>
 
@@ -38,6 +38,7 @@ Mon parcours académique s’est construit entre l’Uruguay et la France, à la
 Je suis actuellement à la recherche de nouvelles opportunités dans le domaine de la photonique, des capteurs ou de l’ingénierie avancée. Curieuse, autonome et motivée par l’innovation scientifique, j’aime travailler à l’interface entre expérimentation, analyse et conception de solutions photoniques robustes.
 
 <h2>Education</h2>
+
 J’ai étudié l’ingénierie électrique à l’Université de la République (UdelaR) en Uruguay. En 2020, j’ai obtenu une bourse pour poursuivre mes études en France dans le cadre d’un programme de double diplôme à IMT Atlantique, où j’ai complété ma formation d’ingénieure. Parallèlement, j’ai suivi un Master en Physique Fondamentale et Applications, avec une spécialisation en photonique, à IMT Atlantique.
 
 En 2025, j’ai obtenu un doctorat en physique à l’Université Paris-Saclay, réalisé au LSPM en collaboration avec le CEA Saclay et l’ICMMO. Mes travaux ont porté sur l’étude, la caractérisation et la modélisation de réseaux de Bragg à fibre optique pour environnements extrêmes.
