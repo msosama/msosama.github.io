@@ -29,13 +29,13 @@ Docteure en physique spécialisée en photonique, je travaille sur les réseaux 
 
 <h2>Research Interests</h2>
 
-I completed my PhD in physics at Universite Paris-Saclay, where I conducted my thesis at LSPM in collaboration with CEA Saclay and ICMMO. My research focused on the study and optimization of fiber Bragg gratings capable of operating at very high temperatures, with a strong emphasis on the microstructural characterization of femtosecond-laser-inscribed microcavities and the understanding of their thermal stability.
+Je suis docteure en physique de l'Université Paris-Saclay, où j'ai mené une thèse au LSPM en collaboration avec le CEA Saclay et l'ICMMO. Mes travaux ont porté sur l'étude et l'optimisation des réseaux de Bragg à fibre optique capables de fonctionner à très haute température, avec un fort accent sur la caractérisation microstructurale des microcavités inscrites par laser femtoseconde et sur la compréhension de leur stabilité thermique.
 
-During my doctoral work, I developed in-depth expertise in advanced microscopy techniques (TEM, nano-IR, QPM), thermal analysis, and the modeling of the evolution mechanisms of photonic structures under extreme conditions. I also contributed to the development of predictive tools to estimate the lifetime of high-temperature sensors, and my research has resulted in several publications in international peer-reviewed journals.
+Au cours de mon doctorat, j'ai développé une expertise approfondie en microscopie avancée (TEM, nano-IR, QPM), en analyse thermique et en modélisation des mécanismes d'évolution de structures photoniques dans des conditions extrêmes. J'ai également contribué à l'élaboration d'outils prédictifs pour estimer la durée de vie de capteurs à haute température, et mes recherches ont donné lieu à plusieurs publications dans des revues internationales.
 
-My academic background has evolved between Uruguay and France, at the intersection of engineering and applied physics. With a degree in electrical engineering and advanced training in photonics, I value scientific rigor, experimental work, and the design of innovative tools.
+Mon parcours académique s'est construit entre l'Uruguay et la France, à la croisée de l'ingénierie et de la physique appliquée. Titulaire d'un diplôme d'ingénieure en électricité et d'une formation approfondie en photonique, j'accorde une grande importance à la rigueur scientifique, à l'expérimentation et à la conception d'outils innovants.
 
-I am currently looking for new opportunities in photonics, sensors, or advanced engineering. Curious, autonomous, and motivated by scientific innovation, I enjoy working at the interface between experimentation, analysis, and the design of robust photonic solutions.
+Je suis actuellement à la recherche de nouvelles opportunités dans le domaine de la photonique, des capteurs ou de l'ingénierie avancée. Curieuse, autonome et motivée par l'innovation scientifique, j'aime travailler à l'interface entre expérimentation, analyse et conception de solutions photoniques robustes.
 
 <h2>Education</h2>
 
