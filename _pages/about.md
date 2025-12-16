@@ -25,7 +25,7 @@ social: true # includes social icons at the bottom of the page
 #limit: 3 # leave blank to include all the blog posts
 ---
 
-Docteure et ingénieure R\&D en photonique, spécialisée dans le développement et la fiabilité des capteurs à fibre optique (réseaux de Bragg) en conditions extrêmes. Expertise confirmée couvrant de la structuration des fibres par laser femtoseconde, l’étude des performances métrologiques des capteurs, la modélisation de leur durée de vie, mais aussi le traitement avancé des données. Passionnée par l’innovation technologique, j’apporte une approche analytique et pragmatique pour résoudre des défis complexes en Instrumentation et en Photonique.
+Docteure et ingénieure R&D en photonique, spécialisée dans le développement et la fiabilité des capteurs à fibre optique (réseaux de Bragg) en conditions extrêmes. Expertise confirmée couvrant de la structuration des fibres par laser femtoseconde, l’étude des performances métrologiques des capteurs, la modélisation de leur durée de vie, mais aussi le traitement avancé des données. Passionnée par l’innovation technologique, j’apporte une approche analytique et pragmatique pour résoudre des défis complexes en Instrumentation et en Photonique.
 
 <h2>Centres d'intérêt</h2>
 
