@@ -81,15 +81,88 @@
 
 
 - title: Publications dans des revues
-  type: list
+  type: time_table
   contents:
-    - "Sosa, M.; Cavillon, M.; Blanchet, T.; Lancry, M.; Laffont, G. Spectral and Microscopic Behavior of Type III Femtosecond Fiber Bragg Gratings at High Temperatures. Micromachines 2025, 16, 331."
-    - "Sosa, M.; Cavillon, M.; Blanchet, T.; Nemeth, G.; Borondics, F.; Laffont, G.; Lancry, M. Micro-to-Nanoscale Characterization of Femtosecond Laser Photo-Inscribed Microvoids. Nanomaterials 2024, 14, 1228."
+    - title: "Spectral and Microscopic Behavior of Type III Femtosecond Fiber Bragg Gratings at High Temperatures"
+      year: 2025
+      authors:
+        - M. Sosa
+        - M. Cavillon
+        - T. Blanchet
+        - M. Lancry
+        - G. Laffont
+      journal: Micromachines
+      volume: 16
+      article: 331
+    - title: "Micro-to-Nanoscale Characterization of Femtosecond Laser Photo-Inscribed Microvoids"
+      year: 2024
+      authors:
+        - M. Sosa
+        - M. Cavillon
+        - T. Blanchet
+        - G. Nemeth
+        - F. Borondics
+        - G. Laffont
+        - M. Lancry
+      journal: Nanomaterials
+      volume: 14
+      article: 1228
 
 - title: Communications dans des conférences
-  type: list
+  type: time_table
   contents:
-    - "Matilde Sosa Marti, Maxime Cavillon, Thomas Blanchet, Guillaume Laffont, and Matthieu Lancry: Spectral analysis of type III femtosecond fiber Bragg gratings at high temperatures., Proc. SPIE 13639, 29th International Conference on Optical Fiber Sensors, 1363986 (22 May 2025)."
-    - "Matilde Sosa, Guillaume Laffont, Thomas Blanchet, Matthieu Lancry, and Maxime Cavillon: Lifetime prediction of type III fiber Bragg gratings inscribed by femtosecond laser in silica-based optical fiber., Proc. SPIE 13362, Optical Components and Materials XXII, 133620D (21 March 2025)."
-    - "M. S. Marti, M. Cavillon, T. Blanchet, M. Lancry, and G. Laffont: Point-by-point femtosecond fiber Bragg gratings behavior at high temperatures., in Advanced Photonics Congress 2024, Technical Digest Series (Optica Publishing Group, 2024), paper BTu2A.3."
-    - "Matilde Sosa Marti, Maxime Cavillon, Thomas Blanchet, Romain Cotillard, Guillaume Laffont, and Matthieu Lancry: High temperature behavior of femtosecond laser photo-inscribed micro-voids., Proc. SPIE 13005, Laser + Photonics for Advanced Manufacturing, 130050N (20 June 2024)."
+    - title: "Spectral analysis of type III femtosecond fiber Bragg gratings at high temperatures"
+      year: 2025
+      authors:
+        - M. Sosa Marti
+        - M. Cavillon
+        - T. Blanchet
+        - G. Laffont
+        - M. Lancry
+      conference: "29th International Conference on Optical Fiber Sensors"
+      proceedings: "Proc. SPIE"
+      volume: 13639
+      paper: 1363986
+      date: "Porto, Portugal - May 2025"
+
+    - title: "Lifetime prediction of type III fiber Bragg gratings inscribed by femtosecond laser in silica-based optical fiber"
+      year: 2025
+      authors:
+        - M. Sosa
+        - G. Laffont
+        - T. Blanchet
+        - M. Lancry
+        - M. Cavillon
+      conference: "Optical Components and Materials XXII"
+      proceedings: "Proc. SPIE"
+      volume: 13362
+      paper: 133620D
+      date: "San Francisco, EEUU - January 2025"
+
+    - title: "Point-by-point femtosecond fiber Bragg gratings behavior at high temperatures"
+      year: 2024
+      authors:
+        - M. S. Marti
+        - M. Cavillon
+        - T. Blanchet
+        - M. Lancry
+        - G. Laffont
+      conference: "Advanced Photonics Congress 2024"
+      publisher: "Optica Publishing Group"
+      paper: "BTu2A.3"
+      date: "Québec, Canada - August 2024"
+
+    - title: "High temperature behavior of femtosecond laser photo-inscribed micro-voids"
+      year: 2024
+      authors:
+        - M. Sosa Marti
+        - M. Cavillon
+        - T. Blanchet
+        - R. Cotillard
+        - G. Laffont
+        - M. Lancry
+      conference: "Laser + Photonics for Advanced Manufacturing"
+      proceedings: "Proc. SPIE"
+      volume: 13005
+      paper: 130050N
+      date: "Strasbourg, France - April 2024"
