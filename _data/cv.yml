@@ -11,9 +11,16 @@
       value: "Francais (Courant), Anglais (Courant), Espagnol (Langue maternelle)"
 
 - title: Résumé
-  type: list
-  contents:
-    - "Docteure et ingénieure R&D en photonique, spécialisée dans le développement et la fiabilité des capteurs à fibre optique (réseaux de Bragg) en conditions extrêmes. Expertise confirmée couvrant de la structuration des fibres par laser femtoseconde, l'étude des performances métrologiques des capteurs, la modélisation de leur durée de vie, mais aussi le traitement avancé des données. Passionnée par l'innovation technologique, j'apporte une approche analytique et pragmatique pour résoudre des défis complexes en Instrumentation et en Photonique."
+  type: text
+  contents: >
+    Docteure et ingénieure R&D en photonique, spécialisée dans le développement
+    et la fiabilité des capteurs à fibre optique (réseaux de Bragg) en conditions
+    extrêmes. Expertise confirmée couvrant de la structuration des fibres par
+    laser femtoseconde, l'étude des performances métrologiques des capteurs, la
+    modélisation de leur durée de vie, mais aussi le traitement avancé des
+    données. Passionnée par l'innovation technologique, j'apporte une approche
+    analytique et pragmatique pour résoudre des défis complexes en Instrumentation
+    et en Photonique.
 
 - title: Expérience
   type: time_table
