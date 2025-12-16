@@ -10,13 +10,12 @@
     - name: Langues
       value: "Francais (Courant), Anglais (Courant), Espagnol (Langue maternelle)"
 
-
 - title: Résumé
   type: list
   contents:
     - "Docteure et ingénieure R&D en photonique, spécialisée dans le développement et la fiabilité des capteurs à fibre optique (réseaux de Bragg) en conditions extrêmes. Expertise confirmée couvrant de la structuration des fibres par laser femtoseconde, l'étude des performances métrologiques des capteurs, la modélisation de leur durée de vie, mais aussi le traitement avancé des données. Passionnée par l'innovation technologique, j'apporte une approche analytique et pragmatique pour résoudre des défis complexes en Instrumentation et en Photonique."
 
-- title: Experience
+- title: Expérience
   type: time_table
   contents:
     - title: "Doctorat en Physique - Photonique"
@@ -42,7 +41,6 @@
         - "Étude du phénomène de communication par backscattering."
         - "Analyse de la faisabilité: expériences et simulations pour comparer théorie et résultats (Python, Arduino, GNURadio)."
 
-
 - title: Compétences Techniques
   type: list
   contents:
@@ -50,7 +48,6 @@
     - "Inscription de microstructures dans le verre de silice par laser femtoseconde."
     - "Techniques de microscopie QPM, TEM, nano-IR : analyse microstructurale et suivi de l'évolution thermique."
     - "Programmation Python, MATLAB, LabVIEW : analyse de données, simulations et contrôle d'instruments."
-
 
 - title: Éducation
   type: time_table
@@ -68,7 +65,6 @@
       institution: "Universidad de la Republica (UdelaR) - Montevideo, Uruguay"
       year: "2017 - 2022"
 
-
 - title: Distinctions
   type: time_table
   contents:
@@ -78,7 +74,6 @@
     - title: "Bourse d'études"
       year: "2021"
       description: "Agence nationale pour la recherche et l'innovation de l'Uruguay."
-
 
 - title: Publications dans des revues
   type: time_table
@@ -124,7 +119,6 @@
       volume: 13639
       paper: 1363986
       date: "Porto, Portugal - May 2025"
-
     - title: "Lifetime prediction of type III fiber Bragg gratings inscribed by femtosecond laser in silica-based optical fiber"
       year: 2025
       authors:
@@ -138,7 +132,6 @@
       volume: 13362
       paper: 133620D
       date: "San Francisco, EEUU - January 2025"
-
     - title: "Point-by-point femtosecond fiber Bragg gratings behavior at high temperatures"
       year: 2024
       authors:
@@ -151,7 +144,6 @@
       publisher: "Optica Publishing Group"
       paper: "BTu2A.3"
       date: "Québec, Canada - August 2024"
-
     - title: "High temperature behavior of femtosecond laser photo-inscribed micro-voids"
       year: 2024
       authors:
