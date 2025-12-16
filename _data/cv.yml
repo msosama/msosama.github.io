@@ -79,82 +79,35 @@
   type: time_table
   contents:
     - title: "Spectral and Microscopic Behavior of Type III Femtosecond Fiber Bragg Gratings at High Temperatures"
-      year: 2025
-      authors:
-        - M. Sosa
-        - M. Cavillon
-        - T. Blanchet
-        - M. Lancry
-        - G. Laffont
-      journal: Micromachines
-      volume: 16
-      article: 331
+      year: "2025"
+      institution: "Micromachines"
+      description: "M. Sosa, M. Cavillon, T. Blanchet, M. Lancry, G. Laffont"
+
     - title: "Micro-to-Nanoscale Characterization of Femtosecond Laser Photo-Inscribed Microvoids"
-      year: 2024
-      authors:
-        - M. Sosa
-        - M. Cavillon
-        - T. Blanchet
-        - G. Nemeth
-        - F. Borondics
-        - G. Laffont
-        - M. Lancry
-      journal: Nanomaterials
-      volume: 14
-      article: 1228
+      year: "2024"
+      institution: "Nanomaterials"
+      description: "M. Sosa, M. Cavillon, T. Blanchet, G. Nemeth, F. Borondics, G. Laffont, M. Lancry"
+
 
 - title: Communications dans des conférences
   type: time_table
   contents:
     - title: "Spectral analysis of type III femtosecond fiber Bragg gratings at high temperatures"
-      year: 2025
-      authors:
-        - M. Sosa Marti
-        - M. Cavillon
-        - T. Blanchet
-        - G. Laffont
-        - M. Lancry
-      conference: "29th International Conference on Optical Fiber Sensors"
-      proceedings: "Proc. SPIE"
-      volume: 13639
-      paper: 1363986
-      date: "Porto, Portugal - May 2025"
+      year: "2025"
+      institution: "29th International Conference on Optical Fiber Sensors, Proc. SPIE - Porto, Portugal"
+      description: "M. Sosa Marti, M. Cavillon, T. Blanchet, G. Laffont, M. Lancry"
+
     - title: "Lifetime prediction of type III fiber Bragg gratings inscribed by femtosecond laser in silica-based optical fiber"
-      year: 2025
-      authors:
-        - M. Sosa
-        - G. Laffont
-        - T. Blanchet
-        - M. Lancry
-        - M. Cavillon
-      conference: "Optical Components and Materials XXII"
-      proceedings: "Proc. SPIE"
-      volume: 13362
-      paper: 133620D
-      date: "San Francisco, EEUU - January 2025"
+      year: "2025"
+      institution: "Optical Components and Materials XXII, Proc. SPIE - San Francisco, EEUU"
+      description: "M. Sosa, M. Cavillon, T. Blanchet, M. Lancry, G. Laffont"
+
     - title: "Point-by-point femtosecond fiber Bragg gratings behavior at high temperatures"
-      year: 2024
-      authors:
-        - M. S. Marti
-        - M. Cavillon
-        - T. Blanchet
-        - M. Lancry
-        - G. Laffont
-      conference: "Advanced Photonics Congress 2024"
-      publisher: "Optica Publishing Group"
-      paper: "BTu2A.3"
-      date: "Québec, Canada - August 2024"
+      year: "2024"
+      institution: "Advanced Photonics Congress 2024, Optica Publishing Group - Québec, Canada"
+      description: "M. S. Marti, M. Cavillon, T. Blanchet, M. Lancry, G. Laffont"
+
     - title: "High temperature behavior of femtosecond laser photo-inscribed micro-voids"
-      year: 2024
-      authors:
-        - M. Sosa Marti
-        - M. Cavillon
-        - T. Blanchet
-        - R. Cotillard
-        - G. Laffont
-        - M. Lancry
-      conference: "Laser + Photonics for Advanced Manufacturing"
-      proceedings: "Proc. SPIE"
-      volume: 13005
-      paper: 130050N
-      date: "Strasbourg, France - April 2024"
+      year: "2024"
+      institution: "Laser + Photonics for Advanced Manufacturing, Proc. SPIE - Strasbourg, France"
+      description: "M. Sosa Marti, M. Cavillon, T. Blanchet, R. Cotillard, G. Laffont, M. Lancry"
