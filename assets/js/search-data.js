@@ -35,7 +35,7 @@ ninja.data = [{
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/assets/pdf/Matilde_Sosa_CV.pdf", "_blank");
+          window.open("/assets/pdf/Matilde_Sosa_Marti_CV_2025.pdf", "_blank");
         },
       },{
         id: 'social-email',
